@@ -1,10 +1,18 @@
-# Privacimiento
-knowledge space about privacy in the world of software. Topics such as laws, management, software, algorithms, etc are part on this space; They are found in this place in Spanish and english.
+# Certifications of courses
+This is a list of certificates of completion i taken to preparing in privacy engineering and topics related it.
 
-## Structure of project
-* __Projects__: List of academic purpose projects to apply my knowledge and show my skills.
-* __Books__: Summary of books that i readed to understand and known about topic.
-* __Posts__: List of post i written to explain and records my knowledge about topic.
-* __Certifications__: List of certifications and evidences i had completed courses.
+| Platform | Name of course | Level | Scoring |
+|----------|----------------|--------|--------|
+| Udacity | Privacy engineering Nanodegree | beginner | 5/5 |
 
-In `Books` and `Posts` sections, those is writtern and stored in my medium account and i will use a readme like guide to navigate to specified section you want to read. 
+
+## Privacy engineerign nanodegree of Udacity
+### Skills:
+* Learn about what is privacy engineering and the importants.
+* Learn and implements methods of minimizations in projects.
+* Get a basic knowledge about common regulations like CPPA, HIPAA, etc.
+* Create a assessment document of risk in system and recommend best practice.
+* Understand and use a `Privacy by design` framework in software project.
+
+### Comments
+This is a good point to get know about rol and basic concepts, generate projects of portfolio and understand about the privacy engineering.
