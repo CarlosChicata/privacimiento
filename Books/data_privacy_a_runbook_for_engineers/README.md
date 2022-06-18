@@ -1,10 +1,19 @@
-# Privacimiento
-knowledge space about privacy in the world of software. Topics such as laws, management, software, algorithms, etc are part on this space; They are found in this place in Spanish and english.
+# Data privacy: a runbook for engineers
+## Purpose
+The purpose of book are 2. First: to helps engineers look to solve privacy problems using tools, automation, and process based in provided techniques. Second:  to help decision-makers in companies, governments, and media provide the right guidance to help businesses thrive as well as protect customer data.
 
-## Structure of project
-* __Projects__: List of academic purpose projects to apply my knowledge and show my skills.
-* __Books__: Summary of books that i readed to understand and known about topic.
-* __Posts__: List of post i written to explain and records my knowledge about topic.
-* __Certifications__: List of certifications and evidences i had completed courses.
+## Comments
+This is a technical book to help to data engineering to implements tools to generate privacy in business based in techniques. too it help to explain why this techniques and interact with business stakeholders.
 
-In `Books` and `Posts` sections, those is writtern and stored in my medium account and i will use a readme like guide to navigate to specified section you want to read. 
+## Keywords
+* Data inventory.
+* privacy engineering in agile business.
+* Data Deletion.
+* Data sharing.
+* Consent management platform.
+
+## List of chapters
+| Chapter Name | Chapter number | Chapter section | Spanish link |
+|--------------|----------------|-----------------|--------------|
+| Build a consent management platform | 9 | _9.1 why consent management is import_ | https://medium.com/privacimiento/gesti%C3%B3n-de-consenso-del-usuario-la-teor%C3%ADa-b2541e80603 |
+| Build a consent management platform | 9 | _9.2 A consent management platform_ | https://medium.com/privacimiento/gesti%C3%B3n-de-consenso-del-usuario-la-teor%C3%ADa-b2541e80603 |
