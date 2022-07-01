@@ -18,4 +18,5 @@ This is a technical book to help to data engineering to implements tools to gene
 |--------------|----------------|-----------------|--------------|
 | Build a consent management platform | 9 | _9.1 why consent management is import_ | https://medium.com/privacimiento/gesti%C3%B3n-de-consenso-del-usuario-la-teor%C3%ADa-b2541e80603 |
 | Build a consent management platform | 9 | _9.2 A consent management platform_ | https://medium.com/privacimiento/gesti%C3%B3n-de-consenso-del-usuario-la-teor%C3%ADa-b2541e80603 |
+| Build a consent management platform | 9 | _9.3 A data schema model for consent management_ | https://medium.com/privacimiento/gesti%C3%B3n-de-consensos-el-modelo-9ef381552379 |
 | Build a consent management platform | 9 | _9.5 Other usefull capabilities in a CMP_ | https://medium.com/privacimiento/gesti%C3%B3n-de-consenso-del-usuario-la-teor%C3%ADa-b2541e80603 |
