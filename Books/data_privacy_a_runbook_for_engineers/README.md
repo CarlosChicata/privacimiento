@@ -1,6 +1,7 @@
 # Data privacy: a runbook for engineers
 ## Purpose
 The purpose of book are 2. First: to helps engineers look to solve privacy problems using tools, automation, and process based in provided techniques. Second:  to help decision-makers in companies, governments, and media provide the right guidance to help businesses thrive as well as protect customer data.
+
 **Note**: Those are in spanish currently.
 
 ## Comments
