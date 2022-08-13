@@ -16,6 +16,15 @@ This is a technical book to help to data engineering to implements tools to gene
 
 ## List of chapters
 
+### Chapter 5:  Data classification
+
+Contains knowledge about how define a relationship between source of the data and the company will use; as well methods and practices to build in your system.
+
+**Note**: content in spanish
+
+| Chapter Name | Chapter number | Chapter section | Spanish link |
+|--------------|----------------|-----------------|--------------|
+
 ### Chapter 9:  Build a consent management platform
 
 Contains basic technical and theory knowledge about user consents and its management. It's separate in three parts: [general theory](https://medium.com/privacimiento/gesti%C3%B3n-de-consenso-del-usuario-la-teor%C3%ADa-b2541e80603), [model](https://medium.com/privacimiento/gesti%C3%B3n-de-consensos-el-modelo-9ef381552379) and [API](https://medium.com/privacimiento/gesti%C3%B3n-de-consensos-el-api-39baa6dbe4).
