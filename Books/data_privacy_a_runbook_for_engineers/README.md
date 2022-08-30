@@ -16,14 +16,20 @@ This is a technical book to help to data engineering to implements tools to gene
 
 ## List of chapters
 
-### Chapter 5:  Data classification
+### Chapter 3:  Data classification
 
-Contains knowledge about how define a relationship between source of the data and the company will use; as well methods and practices to build in your system.
+Contains knowledge about how define a relationship between source of the data and the company will use; as well methods and practices to build in your system. This chapters was divide in three parts: the reasons why  implement, the process to create it and tips and tricks to negotiate with stakeholders.
 
 **Note**: content in spanish
 
 | Chapter Name | Chapter number | Chapter section | Spanish link |
 |--------------|----------------|-----------------|--------------|
+| Data classification | 3 | _3.1 Data classification and customer context_ | |
+| Data classification | 3 | _3.2 Why data classification is necessary_ | |
+| Data classification | 3 | _3.3 How you can implement data classification to improve privacy_ | |
+| Data classification | 3 | _3.4 How to classify data with a focus on privcy laws_ | |
+| Data classification | 3 | _3.5 The data classification process_ | |
+| Data classification | 3 | _3.6 Data classification : example_ | |
 
 ### Chapter 9:  Build a consent management platform
 
