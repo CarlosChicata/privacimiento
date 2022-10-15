@@ -18,7 +18,7 @@ This is a technical book to help to data engineering to implements tools to gene
 
 ### Chapter 3:  Data classification
 
-Contains knowledge about how define a relationship between source of the data and the company will use; as well methods and practices to build in your system. This chapters was divide in three parts: the [reasons why implement](https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-razones-de-la-importancia-4d28320e0151), the process to create it and [tips and tricks to negotiate with stakeholders](https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-tips-731c2bbe5966).
+Contains knowledge about how define a relationship between source of the data and the company will use; as well methods and practices to build in your system. This chapters was divide in three parts: the [reasons why implement](https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-razones-de-la-importancia-4d28320e0151), [the process to create it](https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-entendiendo-el-proceso-y-las-pol%C3%ADticas-9ead72c50f2c) and [tips and tricks to negotiate with stakeholders](https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-tips-731c2bbe5966).
 
 **Note**: content in spanish
 
@@ -28,8 +28,7 @@ Contains knowledge about how define a relationship between source of the data an
 | Data classification | 3 | _3.2 Why data classification is necessary_ | 1. https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-tips-731c2bbe5966 2. https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-razones-de-la-importancia-4d28320e0151 |
 | Data classification | 3 | _3.3 How you can implement data classification to improve privacy_ | 1. https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-tips-731c2bbe5966 2. https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-razones-de-la-importancia-4d28320e0151|
 | Data classification | 3 | _3.4 How to classify data with a focus on privcy laws_ | https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-razones-de-la-importancia-4d28320e0151 |
-| Data classification | 3 | _3.5 The data classification process_ | |
-| Data classification | 3 | _3.6 Data classification : example_ | |
+| Data classification | 3 | _3.5 The data classification process_ | https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-entendiendo-el-proceso-y-las-pol%C3%ADticas-9ead72c50f2c |
 
 ### Chapter 9:  Build a consent management platform
 
