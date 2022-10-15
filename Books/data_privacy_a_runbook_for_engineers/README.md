@@ -30,6 +30,10 @@ Contains knowledge about how define a relationship between source of the data an
 | Data classification | 3 | _3.4 How to classify data with a focus on privcy laws_ | https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-razones-de-la-importancia-4d28320e0151 |
 | Data classification | 3 | _3.5 The data classification process_ | https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-entendiendo-el-proceso-y-las-pol%C3%ADticas-9ead72c50f2c |
 
+### Chapter 5: Data sharing
+
+Soon
+
 ### Chapter 9:  Build a consent management platform
 
 Contains basic technical and theory knowledge about user consents and its management. It's separate in three parts: [general theory](https://medium.com/privacimiento/gesti%C3%B3n-de-consenso-del-usuario-la-teor%C3%ADa-b2541e80603), [model](https://medium.com/privacimiento/gesti%C3%B3n-de-consensos-el-modelo-9ef381552379) and [API](https://medium.com/privacimiento/gesti%C3%B3n-de-consensos-el-api-39baa6dbe4).
