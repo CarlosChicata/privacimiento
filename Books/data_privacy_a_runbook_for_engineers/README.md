@@ -32,7 +32,18 @@ Contains knowledge about how define a relationship between source of the data an
 
 ### Chapter 5: Data sharing
 
-Soon
+Contains reasons and examples to explain why we need to share data and how to do that while we preserve the privacy and value. Soon links
+
+**Note**: content in spanish
+
+| Chapter Name | Chapter number | Chapter section | Spanish link |
+|--------------|----------------|-----------------|--------------|
+| Data sharing | 5 | _5.1_ Data sharing: Why companies need to share data | Soon |
+| Data sharing | 5 | _5.2_ How to share data safely: Security as an ally of privacy | Soon |
+| Data sharing | 5 | _5.3_ Obfuscation techniques for privacy-safe data sharing | Soon |
+| Data sharing | 5 | _5.4_ Sharing internal IDs with third parties | Soon |
+| Data sharing | 5 | _5.5_ Measuring privacy impact | Soon |
+| Data sharing | 5 | _5.6_ Privacy harms: This is not a drill | Soon |
 
 ### Chapter 9:  Build a consent management platform
 
