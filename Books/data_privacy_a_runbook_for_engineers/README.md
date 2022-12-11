@@ -32,18 +32,18 @@ Contains knowledge about how define a relationship between source of the data an
 
 ### Chapter 5: Data sharing
 
-Contains reasons and examples to explain why we need to share data and how to do that while we preserve the privacy and value. Soon links
+Contains reasons and examples to explain why we need to share data and how to do that while we preserve the privacy and value with techniques and how to measure the privacy level in sharing data. This chapter is divide in three parts: [reason to share safely data](https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a)
 
 **Note**: content in spanish
 
 | Chapter Name | Chapter number | Chapter section | Spanish link |
 |--------------|----------------|-----------------|--------------|
-| Data sharing | 5 | _5.1_ Data sharing: Why companies need to share data | Soon |
+| Data sharing | 5 | _5.1_ Data sharing: Why companies need to share data | https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a |
 | Data sharing | 5 | _5.2_ How to share data safely: Security as an ally of privacy | Soon |
 | Data sharing | 5 | _5.3_ Obfuscation techniques for privacy-safe data sharing | Soon |
 | Data sharing | 5 | _5.4_ Sharing internal IDs with third parties | Soon |
 | Data sharing | 5 | _5.5_ Measuring privacy impact | Soon |
-| Data sharing | 5 | _5.6_ Privacy harms: This is not a drill | Soon |
+| Data sharing | 5 | _5.6_ Privacy harms: This is not a drill | https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a |
 
 ### Chapter 9:  Build a consent management platform
 
