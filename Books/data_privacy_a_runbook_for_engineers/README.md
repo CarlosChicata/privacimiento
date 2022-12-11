@@ -38,12 +38,12 @@ Contains reasons and examples to explain why we need to share data and how to do
 
 | Chapter Name | Chapter number | Chapter section | Spanish link |
 |--------------|----------------|-----------------|--------------|
-| Data sharing | 5 | _5.1_ Data sharing: Why companies need to share data | https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a |
-| Data sharing | 5 | _5.2_ How to share data safely: Security as an ally of privacy | Soon |
-| Data sharing | 5 | _5.3_ Obfuscation techniques for privacy-safe data sharing | Soon |
-| Data sharing | 5 | _5.4_ Sharing internal IDs with third parties | Soon |
-| Data sharing | 5 | _5.5_ Measuring privacy impact | Soon |
-| Data sharing | 5 | _5.6_ Privacy harms: This is not a drill | https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a |
+| Data sharing | 5 | _5.1 Data sharing: Why companies need to share data_ | https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a |
+| Data sharing | 5 | _5.2 How to share data safely: Security as an ally of privacy_ | Soon |
+| Data sharing | 5 | _5.3 Obfuscation techniques for privacy-safe data sharing_ | Soon |
+| Data sharing | 5 | _5.4 Sharing internal IDs with third parties_ | Soon |
+| Data sharing | 5 | _5.5 Measuring privacy impact_ | Soon |
+| Data sharing | 5 | _5.6 Privacy harms: This is not a drill_ | https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a |
 
 ### Chapter 9:  Build a consent management platform
 
