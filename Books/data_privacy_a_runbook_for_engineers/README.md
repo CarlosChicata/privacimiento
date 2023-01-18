@@ -32,17 +32,17 @@ Contains knowledge about how define a relationship between source of the data an
 
 ### Chapter 5: Data sharing
 
-Contains reasons and examples to explain why we need to share data and how to do that while we preserve the privacy and value with techniques and how to measure the privacy level in sharing data. This chapter is divide in three parts: [reason to share safely data](https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a)
+Contains reasons and examples to explain why we need to share data and how to do that while we preserve the privacy and value with techniques and how to measure the privacy level in sharing data. This chapter is divide in three parts: [reason to share safely data](https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a), [techniques and methods to security your data in several faces](https://medium.com/privacimiento/compartiendo-datos-t%C3%A9cnicas-para-asegurar-los-datos-44f76b09c168)
 
 **Note**: content in spanish
 
 | Chapter Name | Chapter number | Chapter section | Spanish link |
 |--------------|----------------|-----------------|--------------|
 | Data sharing | 5 | _5.1 Data sharing: Why companies need to share data_ | https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a |
-| Data sharing | 5 | _5.2 How to share data safely: Security as an ally of privacy_ | Soon |
-| Data sharing | 5 | _5.3 Obfuscation techniques for privacy-safe data sharing_ | Soon |
+| Data sharing | 5 | _5.2 How to share data safely: Security as an ally of privacy_ | https://medium.com/privacimiento/compartiendo-datos-t%C3%A9cnicas-para-asegurar-los-datos-44f76b09c168 |
+| Data sharing | 5 | _5.3 Obfuscation techniques for privacy-safe data sharing_ | https://medium.com/privacimiento/compartiendo-datos-t%C3%A9cnicas-para-asegurar-los-datos-44f76b09c168 |
 | Data sharing | 5 | _5.4 Sharing internal IDs with third parties_ | Soon |
-| Data sharing | 5 | _5.5 Measuring privacy impact_ | Soon |
+| Data sharing | 5 | _5.5 Measuring privacy impact_ | https://medium.com/privacimiento/compartiendo-datos-t%C3%A9cnicas-para-asegurar-los-datos-44f76b09c168 |
 | Data sharing | 5 | _5.6 Privacy harms: This is not a drill_ | https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a |
 
 ### Chapter 9:  Build a consent management platform
