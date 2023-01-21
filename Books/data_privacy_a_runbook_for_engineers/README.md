@@ -30,6 +30,10 @@ Contains knowledge about how define a relationship between source of the data an
 | Data classification | 3 | _3.4 How to classify data with a focus on privcy laws_ | https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-razones-de-la-importancia-4d28320e0151 |
 | Data classification | 3 | _3.5 The data classification process_ | https://medium.com/privacimiento/clasificaci%C3%B3n-de-datos-entendiendo-el-proceso-y-las-pol%C3%ADticas-9ead72c50f2c |
 
+### Chapter 4:  Data inventory
+
+Soon
+
 ### Chapter 5: Data sharing
 
 Contains reasons and examples to explain why we need to share data and how to do that while we preserve the privacy and value with techniques and how to measure the privacy level in sharing data. This chapter is divide in three parts: [reason to share safely data](https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a), [techniques and methods to security your data in several faces](https://medium.com/privacimiento/compartiendo-datos-t%C3%A9cnicas-para-asegurar-los-datos-44f76b09c168)
