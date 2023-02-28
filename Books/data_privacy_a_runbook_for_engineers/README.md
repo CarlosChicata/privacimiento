@@ -32,7 +32,18 @@ Contains knowledge about how define a relationship between source of the data an
 
 ### Chapter 4:  Data inventory
 
-Soon
+Process to apply data classification in scalable and easy to apply in all data in organization.
+
+| Chapter Name | Chapter number | Chapter section | Spanish link |
+|--------------|----------------|-----------------|--------------|
+| Data inventory | 4 | _4.1 Data inventory: What it is and why you need it_ | soon |
+| Data inventory | 4 | _4.2 Machine-readable tags_ | soon |
+| Data inventory | 4 | _4.3 Creating a baseline_ | soon |
+| Data inventory | 4 | _4.4 The technical architecture_ | soon |
+| Data inventory | 4 | _4.5 Understanding the data_ | soon |
+| Data inventory | 4 | _4.6 When should you start the data inventory process?_ | soon |
+| Data inventory | 4 | _4.7 A data inventory is not a binary process_ | soon |
+| Data inventory | 4 | _4.8 What does a successful data inventory process look like?_ | soon |
 
 ### Chapter 5: Data sharing
 
