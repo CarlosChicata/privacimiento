@@ -40,7 +40,7 @@ Process to apply data classification in scalable and easy to apply in all data i
 | Data inventory | 4 | _4.2 Machine-readable tags_ | https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
 | Data inventory | 4 | _4.3 Creating a baseline_ | https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
 | Data inventory | 4 | _4.4 The technical architecture_ | soon |
-| Data inventory | 4 | _4.5 Understanding the data_ | soon |
+| Data inventory | 4 | _4.5 Understanding the data_ | 1. https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
 | Data inventory | 4 | _4.6 When should you start the data inventory process?_ | https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
 | Data inventory | 4 | _4.7 A data inventory is not a binary process_ | soon |
 | Data inventory | 4 | _4.8 What does a successful data inventory process look like?_ | https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
