@@ -32,17 +32,17 @@ Contains knowledge about how define a relationship between source of the data an
 
 ### Chapter 4:  Data inventory
 
-Process to apply data classification in scalable and easy to apply in all data in organization. This chapter is divide in two parts: [general knowledge about the topic](https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23)
+Process to apply data classification in scalable and easy to apply in all data in organization. This chapter is divide in three parts: [general knowledge about the topic](https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23), [Architectural view for engineering team](https://medium.com/privacimiento/inventario-de-datos-la-arquitectura-49baaf894682)
 
 | Chapter Name | Chapter number | Chapter section | Spanish link |
 |--------------|----------------|-----------------|--------------|
 | Data inventory | 4 | _4.1 Data inventory: What it is and why you need it_ | https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
 | Data inventory | 4 | _4.2 Machine-readable tags_ | https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
-| Data inventory | 4 | _4.3 Creating a baseline_ | https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
-| Data inventory | 4 | _4.4 The technical architecture_ | soon |
-| Data inventory | 4 | _4.5 Understanding the data_ | 1. https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
+| Data inventory | 4 | _4.3 Creating a baseline_ | 1. https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 2. https://medium.com/privacimiento/inventario-de-datos-la-arquitectura-49baaf894682|
+| Data inventory | 4 | _4.4 The technical architecture_ | https://medium.com/privacimiento/inventario-de-datos-la-arquitectura-49baaf894682 |
+| Data inventory | 4 | _4.5 Understanding the data_ | https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
 | Data inventory | 4 | _4.6 When should you start the data inventory process?_ | https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
-| Data inventory | 4 | _4.7 A data inventory is not a binary process_ | soon |
+| Data inventory | 4 | _4.7 A data inventory is not a binary process_ | https://medium.com/privacimiento/inventario-de-datos-la-arquitectura-49baaf894682|
 | Data inventory | 4 | _4.8 What does a successful data inventory process look like?_ | https://medium.com/privacimiento/inventario-de-datos-un-entendimiento-general-97a9ff27fa23 |
 
 ### Chapter 5: Data sharing
