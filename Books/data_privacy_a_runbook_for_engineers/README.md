@@ -60,6 +60,14 @@ Contains reasons and examples to explain why we need to share data and how to do
 | Data sharing | 5 | _5.5 Measuring privacy impact_ | https://medium.com/privacimiento/compartiendo-datos-t%C3%A9cnicas-para-asegurar-los-datos-44f76b09c168 |
 | Data sharing | 5 | _5.6 Privacy harms: This is not a drill_ | https://medium.com/privacimiento/compartiendo-datos-el-porque-debemos-hacerlo-con-seguridad-c43dd7e7ec3a |
 
+### Chapter 6: the technical privacy review
+
+Soon
+
+| Chapter Name | Chapter number | Chapter section | Spanish link |
+|--------------|----------------|-----------------|--------------|
+
+
 ### Chapter 9:  Build a consent management platform
 
 Contains basic technical and theory knowledge about user consents and its management. It's separate in three parts: [general theory](https://medium.com/privacimiento/gesti%C3%B3n-de-consenso-del-usuario-la-teor%C3%ADa-b2541e80603), [model](https://medium.com/privacimiento/gesti%C3%B3n-de-consensos-el-modelo-9ef381552379) and [API](https://medium.com/privacimiento/gesti%C3%B3n-de-consensos-el-api-39baa6dbe4).
@@ -74,3 +82,7 @@ Contains basic technical and theory knowledge about user consents and its manage
 | Build a consent management platform | 9 | _9.4 Consent code: Objects_ | https://medium.com/privacimiento/gesti%C3%B3n-de-consensos-el-api-39baa6dbe483 |
 | Build a consent management platform | 9 | _9.5 Other usefull capabilities in a CMP_ | https://medium.com/privacimiento/gesti%C3%B3n-de-consenso-del-usuario-la-teor%C3%ADa-b2541e80603 |
 | Build a consent management platform | 9 | _9.6 Integrating consent management into product workflow_ | https://medium.com/privacimiento/gesti%C3%B3n-de-consensos-el-api-39baa6dbe48 |
+
+
+
+Soon 
