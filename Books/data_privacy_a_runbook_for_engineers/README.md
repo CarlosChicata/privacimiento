@@ -62,10 +62,18 @@ Contains reasons and examples to explain why we need to share data and how to do
 
 ### Chapter 6: the technical privacy review
 
-Soon
+To verify that development and product teams are compliance all privacy requirements inside the products, the privacy team need to check it from legal and technical views; this chapter will explain basic topics about it. This chapter is divided in four parts: general knowledge, Legal privacy review, Technical privacy review and sample of reviews.
+
+**Note**: content in spanish
 
 | Chapter Name | Chapter number | Chapter section | Spanish link |
 |--------------|----------------|-----------------|--------------|
+| The technical privacy review | 6 | _6.1 What are privacy reviews?_ | Soon |
+| The technical privacy review | 6 | _6.2 Implementing the legal privacy review process_ | Soon |
+| The technical privacy review | 6 | _6.3 Making the case for a technical privacy review_ | Soon |
+| The technical privacy review | 6 | _6.4 Integrating technical privacy reviews into the innovation pipeline_ | Soon |
+| The technical privacy review | 6 | _6.5 Scaling the technical privacy review process_ | Soon |
+| The technical privacy review | 6 | _6.6 Sample technical privacy reviews_ | Soon |
 
 
 ### Chapter 9:  Build a consent management platform
