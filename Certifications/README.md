@@ -5,6 +5,7 @@ This is a list of certificates of completion i taken to preparing in privacy eng
 |----------|----------------|--------|--------|
 | Udacity | Privacy engineering Nanodegree | beginner | 5/5 |
 | Data protocol | Privacy engineering certification  | Middle | 5/5 | 
+| Implement privacy | Dark patterns in privacy | beginner | 5/5 |
 
 
 ## Privacy engineering nanodegree of Udacity
@@ -30,3 +31,12 @@ URL of certification: https://www.credly.com/badges/18cb14ed-16d4-4ae6-b45f-b2ff
 
 ## Comments
 I Think that course is a short version of "Data privacy: a runbook for engineers"; but i think it will give you a wide view of privacy engineering world with some points of exercises to understand the concepts. This is a technical view.
+
+## Dark patterns in privacy of "Implement Privacy"
+### Skills:
+* Learn about what is dark pattern and its important.
+* Learn about dark patterns in privacy and its taxonomy.
+* Learn about cognitive biases and its common cases in UX.
+
+### Comments
+This is a good point to want to learn how the UX/UI can affect the privacy of users bases in the explotation of common cognitive biases to share data that they don't want. It's short but important to know.
