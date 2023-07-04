@@ -8,3 +8,9 @@ knowledge space about privacy in the world of software. Topics such as laws, man
 * __Certifications__: List of certifications and evidences i had completed courses.
 
 In `Books` and `Posts` sections, those is writtern and stored in my medium account and i will use a readme like guide to navigate to specified section you want to read. 
+
+## Talks
+
+| Title | Description | Datetime | Edition | Reference | Language |
+|-------|-------------|----------|---------|-----------|----------|
+| ¿Y si hago un POC para borrar los datos de forma integral? | Talk about what i need to know to implement a integral deleted of data in your system. | 1/jun/2023 | AWS Community security day - Chile Edition 2023| https://aws-chile.securityday.community/ | Spanish |
