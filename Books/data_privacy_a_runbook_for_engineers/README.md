@@ -75,6 +75,19 @@ To verify that development and product teams are compliance all privacy requirem
 | The technical privacy review | 6 | _6.5 Scaling the technical privacy review process_ | https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-enfoque-t%C3%A9cnico-4da7da0f9558 |
 | The technical privacy review | 6 | _6.6 Sample technical privacy reviews_ | Soon |
 
+### Chapter 7:  Data deletion
+
+Soon
+
+| Chapter Name | Chapter number | Chapter section | Spanish link |
+|--------------|----------------|-----------------|--------------|
+| Data deletion | 7 | _7.1 Why must a company delete data?_ |  |
+| Data deletion | 7 | _7.2 What does a modern data collection architecture look like?_ |  |
+| Data deletion | 7 | _7.3 How the data collection architecture works_ |  |
+| Data deletion | 7 | _7.4 Deleting account-level data: A starting point_ |  |
+| Data deletion | 7 | _7.5 Deleting account-level data: Automation and scaling for distributed services_ |  |
+| Data deletion | 7 | _7.6 Sensitive data deletion_ |  |
+| Data deletion | 7 | _7.7 Who should own data deletion?_ |  |
 
 ### Chapter 9:  Build a consent management platform
 
