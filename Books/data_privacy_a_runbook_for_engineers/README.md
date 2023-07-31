@@ -77,7 +77,7 @@ To verify that development and product teams are compliance all privacy requirem
 
 ### Chapter 7:  Data deletion
 
-Soon
+Part of the implement privacy in IT is data deletion; so that many privacy risks emanate from data leakage, misuse and exfiltration. if the obstruction is a good option to mitigate  privacy harms, in some case , it may be more practical to delete the data altogether, since the best way to prevent data misuse is to not have the data at all; and by the way comply regulations and other law requirements. This chapter is divided in Two parts: [basis about topic]() and [technical knowledge]().
 
 | Chapter Name | Chapter number | Chapter section | Spanish link |
 |--------------|----------------|-----------------|--------------|
