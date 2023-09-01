@@ -62,7 +62,7 @@ Contains reasons and examples to explain why we need to share data and how to do
 
 ### Chapter 6: the technical privacy review
 
-To verify that development and product teams are compliance all privacy requirements inside the products, the privacy team need to check it from legal and technical views; this chapter will explain basic topics about it. This chapter is divided in four parts: [general knowledge](https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-las-bases-ff1e72e275c2), [Legal privacy review](https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-enfoque-legal-490672ec3ffd), [Technical privacy review](https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-enfoque-t%C3%A9cnico-4da7da0f9558) and sample of reviews.
+To verify that development and product teams are compliance all privacy requirements inside the products, the privacy team need to check it from legal and technical views; this chapter will explain basic topics about it. This chapter is divided in four parts: [general knowledge](https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-las-bases-ff1e72e275c2), [Legal privacy review](https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-enfoque-legal-490672ec3ffd), [Technical privacy review](https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-enfoque-t%C3%A9cnico-4da7da0f9558) and [sample of reviews](https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-ejemplos-dbd571957766).
 
 **Note**: content in spanish
 
@@ -73,7 +73,7 @@ To verify that development and product teams are compliance all privacy requirem
 | The technical privacy review | 6 | _6.3 Making the case for a technical privacy review_ |  1. https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-las-bases-ff1e72e275c2 2. https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-enfoque-legal-490672ec3ffd 3. https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-enfoque-t%C3%A9cnico-4da7da0f9558|
 | The technical privacy review | 6 | _6.4 Integrating technical privacy reviews into the innovation pipeline_ | 1. https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-las-bases-ff1e72e275c2 2. https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-enfoque-t%C3%A9cnico-4da7da0f9558 |
 | The technical privacy review | 6 | _6.5 Scaling the technical privacy review process_ | https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-enfoque-t%C3%A9cnico-4da7da0f9558 |
-| The technical privacy review | 6 | _6.6 Sample technical privacy reviews_ | Soon |
+| The technical privacy review | 6 | _6.6 Sample technical privacy reviews_ | https://medium.com/privacimiento/revisi%C3%B3n-de-privacidad-ejemplos-dbd571957766 |
 
 ### Chapter 7:  Data deletion
 
