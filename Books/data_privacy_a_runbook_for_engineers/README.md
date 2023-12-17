@@ -89,6 +89,20 @@ Part of the implement privacy in IT is data deletion; so that many privacy risks
 | Data deletion | 7 | _7.6 Sensitive data deletion_ | https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-puntos-t%C3%A9cnicos-78996c4603bf |
 | Data deletion | 7 | _7.7 Who should own data deletion?_ | https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-contexto-y-bases-be8cc213d05d |
 
+### Chapter 8: Exporting user data: Data Subject Access Requests
+
+Company must handle Data Subject Access Requests to avoid legal and fine problems with country, what the question is how do it in system infrastructure and organization; this chapter give a guideline to face this new and required capacity from technical view to business and IT teams. This chapter is divided in three parts: [Theorigal knowledge](), [Architecture view]() and [Tips for the implementation]()
+
+**Note**: content in spanish
+
+| Chapter Name | Chapter number | Chapter section | Spanish link |
+|--------------|----------------|-----------------|--------------|
+| Exporting user data: Data Subject Access Requests | 8 | _8.1 What are DSARs?_ |  |
+| Exporting user data: Data Subject Access Requests | 8 | _8.2 Setting up the DSAR process_ |  |
+| Exporting user data: Data Subject Access Requests | 8 | _8.3 DSAR automation, data structures, and data flows_ |  |
+| Exporting user data: Data Subject Access Requests | 8 | _8.4  Internal-facing screens and dashboards_ |  |
+
+
 ### Chapter 9:  Build a consent management platform
 
 Contains basic technical and theory knowledge about user consents and its management. It's separate in three parts: [general theory](https://medium.com/privacimiento/gesti%C3%B3n-de-consenso-del-usuario-la-teor%C3%ADa-b2541e80603), [model](https://medium.com/privacimiento/gesti%C3%B3n-de-consensos-el-modelo-9ef381552379) and [API](https://medium.com/privacimiento/gesti%C3%B3n-de-consensos-el-api-39baa6dbe4).
