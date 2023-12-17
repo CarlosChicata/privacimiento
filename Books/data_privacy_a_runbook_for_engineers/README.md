@@ -77,16 +77,16 @@ To verify that development and product teams are compliance all privacy requirem
 
 ### Chapter 7:  Data deletion
 
-Part of the implement privacy in IT is data deletion; so that many privacy risks emanate from data leakage, misuse and exfiltration. if the obstruction is a good option to mitigate  privacy harms, in some case , it may be more practical to delete the data altogether, since the best way to prevent data misuse is to not have the data at all; and by the way comply regulations and other law requirements. This chapter is divided in Two parts: [basis about topic](https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-contexto-y-bases-be8cc213d05d) and [technical knowledge]().
+Part of the implement privacy in IT is data deletion; so that many privacy risks emanate from data leakage, misuse and exfiltration. if the obstruction is a good option to mitigate  privacy harms, in some case , it may be more practical to delete the data altogether, since the best way to prevent data misuse is to not have the data at all; and by the way comply regulations and other law requirements. This chapter is divided in Two parts: [basis about topic](https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-contexto-y-bases-be8cc213d05d) and [technical knowledge](https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-puntos-t%C3%A9cnicos-78996c4603bf).
 
 | Chapter Name | Chapter number | Chapter section | Spanish link |
 |--------------|----------------|-----------------|--------------|
 | Data deletion | 7 | _7.1 Why must a company delete data?_ | https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-contexto-y-bases-be8cc213d05d |
 | Data deletion | 7 | _7.2 What does a modern data collection architecture look like?_ | https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-contexto-y-bases-be8cc213d05d |
 | Data deletion | 7 | _7.3 How the data collection architecture works_ | https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-contexto-y-bases-be8cc213d05d |
-| Data deletion | 7 | _7.4 Deleting account-level data: A starting point_ |  |
-| Data deletion | 7 | _7.5 Deleting account-level data: Automation and scaling for distributed services_ |  |
-| Data deletion | 7 | _7.6 Sensitive data deletion_ |  |
+| Data deletion | 7 | _7.4 Deleting account-level data: A starting point_ | https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-puntos-t%C3%A9cnicos-78996c4603bf |
+| Data deletion | 7 | _7.5 Deleting account-level data: Automation and scaling for distributed services_ | https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-puntos-t%C3%A9cnicos-78996c4603bf |
+| Data deletion | 7 | _7.6 Sensitive data deletion_ | https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-puntos-t%C3%A9cnicos-78996c4603bf |
 | Data deletion | 7 | _7.7 Who should own data deletion?_ | https://medium.com/privacimiento/eliminaci%C3%B3n-de-datos-contexto-y-bases-be8cc213d05d |
 
 ### Chapter 9:  Build a consent management platform
